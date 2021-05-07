@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminal", "Terminal\Terminal.csproj", "{38B6AC40-6935-4C0A-8C6B-34C65E97207F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorRSA", "PoorRSA\PoorRSA.csproj", "{878D2483-FC0C-4344-8F91-E9598C8896BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B6AC40-6935-4C0A-8C6B-34C65E97207F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B6AC40-6935-4C0A-8C6B-34C65E97207F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B6AC40-6935-4C0A-8C6B-34C65E97207F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B6AC40-6935-4C0A-8C6B-34C65E97207F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878D2483-FC0C-4344-8F91-E9598C8896BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878D2483-FC0C-4344-8F91-E9598C8896BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878D2483-FC0C-4344-8F91-E9598C8896BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878D2483-FC0C-4344-8F91-E9598C8896BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD420DF6-3CEE-493A-8612-2BD7C085BA5D}
+	EndGlobalSection
+EndGlobal
